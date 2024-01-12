@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raj.shah.edu@gmail.com
+	name = raj shah
